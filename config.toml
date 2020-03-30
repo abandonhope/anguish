@@ -60,7 +60,7 @@ custom_css = ["css/custom.css"]
     [params.cta]
     enable = true
     title = "Anguish: the Marshall Amp of shells"
-    content = "Real rock starts know they are nothing without the highest quality equipment. Without professional name brands like Fender, Les Paul, Marshall and Pearl, they know they would sound like absolute shit."
+    content = "Real rock stars know they are nothing without the highest quality equipment. Without professional name brands like Fender, Les Paul, Marshall and Pearl, they know they would sound like absolute shit."
     btnURL = "#"
     btnText = "Become a Rockstar Developer"
 
