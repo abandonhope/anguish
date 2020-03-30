@@ -1,0 +1,14 @@
+enable : true
+movie : movs/about/npmls.mov
+title : Automatic upgrade of legacy UNIX commands
+description : Anguish knows about new cool replacements of legacy UNIX tools and will install them automatically when you try to use them.
+description2 : This video shows someone attempting to use the legacy UNIX `ls` command. Anguish seemlesly downloads and install the superior npm-base "uber-cow-ls" which then runs instead.
+aboutItem : 
+  - icon : tf-circle-compass
+    title : Open Source
+    content : Anguish is 100% open source, written in a combination of over 47 languages including TypeScript, Go, Ruby, Elixir, Kotlin and C#. 
+    
+  - icon : tf-hotairballoon
+    title : Pimp Yo Shell!
+    content : Anguish is the worlds most customizable shell. You can spend so long customizing it that by the time you're finished, apple will have released the next macbook you'll go out and buy.
+  

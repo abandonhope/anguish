@@ -1,0 +1,19 @@
+enable : true
+heading : Get In
+headingSpan : Touch
+title : Contact Details
+content : Share your thoughts on Anguish.
+enable_maps : true
+mapLatitude : 33.7875604
+mapLongitude: -84.3849268
+
+contactDetails :
+  - icon : tf-map-pin
+    info : "Head Office"
+    
+  - icon : tf-ion-ios-telephone-outline
+    info : "Phone: +1-719-26-OATES"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: hello@meghna.com"
+    

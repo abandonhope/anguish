@@ -1,0 +1,108 @@
+baseURL = "https://abandonhope.github.io/anguish/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Anguish"
+theme = "meghna-hugo"
+summaryLength = 10
+publishDir = "docs"
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "About"
+    URL = "about"
+    weight = 3
+
+    [[menu.nav]]
+    name = "Examples"
+    URL = "portfolio"
+    weight = 4
+
+    [[menu.nav]]
+    name = "Testimonials"
+    URL = "testimonials"
+    weight = 5
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 8
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "http://www.google.com/"
+# Meta data
+description = "The hottest new shell for code crafters"
+author = "iSatan"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/hero-area.jpg"
+    icon = "tf-ion-play"
+    heading = "Anguish"
+    content= "The hottest new shell for artisanal code crafting"
+    btn = true
+    btnText="Wield The Power!"
+    btnURL="#about"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Anguish: the Marshall Amp of shells"
+    content = "Real rock starts know they are nothing without the highest quality equipment. Without professional name brands like Fender, Les Paul, Marshall and Pearl, they know they would sound like absolute shit."
+    btnURL = "#"
+    btnText = "Become a Rockstar Developer"
+
+    # counter
+    [params.counter]
+    enable = true
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Rockstar Coders"
+        icon = "tf-ion-android-happy"
+        count = "6570"
+
+        [[params.counter.counterItem]]
+        title = "Payrises"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Sex Acts Earned"
+        icon = "tf-ion-thumbsup"
+        count = "0"
+
+        [[params.counter.counterItem]]
+        title = "Noobs Impressed"
+        icon = "tf-ion-coffee"
+        count = "250"
+
+    # footer
+    [params.footer]
+        copyright = "Heretechal"
+        copyrightURL = "https://medium.com/@heretechal"
+
+        # social Icons
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-facebook"
+        url = "https://facebook.com/sharer/sharer.php?u=https://abandonhope.github.io/anguish/"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "https://twitter.com/intent/tweet/?url=https://abandonhope.github.io/anguish/"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-reddit"
+        url = "https://reddit.com/submit/?url=https://abandonhope.github.io/anguish/"
+

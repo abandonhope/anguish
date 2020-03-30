@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Anguish</title>
+    <link>https://abandonhope.github.io/anguish/tags/</link>
+    <description>Recent content in Tags on Anguish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://abandonhope.github.io/anguish/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>golang</title>
+      <link>https://abandonhope.github.io/anguish/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abandonhope.github.io/anguish/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://abandonhope.github.io/anguish/tags/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abandonhope.github.io/anguish/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://abandonhope.github.io/anguish/tags/programming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abandonhope.github.io/anguish/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>theme</title>
+      <link>https://abandonhope.github.io/anguish/tags/theme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://abandonhope.github.io/anguish/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

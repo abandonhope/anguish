@@ -1,0 +1,16 @@
+enable : true
+heading : About
+headingSpan : Anguish 
+aboutItem : 
+
+- icon : tf-ion-power
+  title : "Modern"
+  content : "Legacy Linux and UNIX commands are so 20th century. These days, professional code crafters demand modern tools for the modern software landscape. Anguish gives you all of you favorite weapons: POWER bar, hyper shell completion, language plugins and then some. Suck it bash."
+
+- icon : tf-tools
+  title : "Powerful"
+  content : "Anguish combines the power of all of the greatest shells used by today's 10x coders and pretty much guarantees sex with one of the young twinks you fantasize about. Guaranteed, or your money back."
+
+- icon : tf-ion-ios-color-filter
+  title : "Stylish"
+  content : "Creativity needs stimulation. That's why code nijas like you need colors, emoji and a million plugins to make your life richer. No-one will hire you if you don't know all of the latest plugins and can do everything in color."

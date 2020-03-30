@@ -1,0 +1,27 @@
+enable : true
+heading : Anguish
+headingSpan : Examples
+
+portfolioItem :
+  - types : bacon
+    image : images/portfolio/randombacon.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Random Bacon
+    description : "Power-developers love their monoculture. Bacon, hot-sauce and South Park are all beloved by all developers and we want to keep it that way. So Anguish will randomly issue a bacon alert, which will never cease to be hilarious."
+  
+  - types : development
+    image : images/portfolio/colors.jpg
+    icon : tf-ion-android-search
+    URL : #
+    title : Pretty colors
+    description : "As a professional 21st century coder you demand colors and emoji, don't you? Look at all the colors! Look at them! Pretty colors! Make feel like have friends. Nice colors! Pretty pictures! Everything's OK when there are colors."
+
+  - types : design, development
+    image : images/portfolio/brawndo.jpg
+    icon : tf-ion-android-search
+    URL : #brawndo
+    title : Auto Brawndo Installer
+    description : "Trying to use a tool you haven't installed? Anguish will automatically attempt to download and install the tool by using curl to download a shellscript from a standard location and running it through a privileged shell."
+    
+ 
