@@ -8,7 +8,7 @@ portfolioItem :
     icon : tf-ion-android-search
     URL : #
     title : Random Bacon
-    description : "Power-developers love their monoculture. Bacon, hot-sauce and South Park are all beloved by all developers and we want to keep it that way. So Anguish will randomly issue a bacon alert, which will never cease to be hilarious."
+    description : "Power-developers love their monoculture. Bacon, hot-sauce and South Park are beloved by all developers and we want to keep it that way. So Anguish will randomly issue a bacon alert, which will never cease to be hilarious."
   
   - types : development
     image : images/portfolio/colors.jpg
