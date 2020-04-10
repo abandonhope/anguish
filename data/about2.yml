@@ -2,7 +2,7 @@ enable : true
 movie : movs/about/npmls.mov
 title : Automatic upgrade of legacy UNIX commands
 description : Anguish knows about new cool replacements of legacy UNIX tools and will install them automatically when you try to use them.
-description2 : This video shows someone attempting to use the legacy UNIX `ls` command. Anguish seemlesly downloads and install the superior npm-base "uber-cow-ls" which then runs instead.
+description2 : This video shows someone attempting to use the legacy UNIX `ls` command. Anguish seamlessly downloads and installs the superior npm-based "uber-cow-ls" which then runs instead.
 aboutItem : 
   - icon : tf-circle-compass
     title : Open Source
